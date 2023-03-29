@@ -85,3 +85,17 @@ p{
     font-family: 'Courier New', Courier, monospace;
 }
 
+h3 {
+    display: flex;
+    justify-content:left;
+    color:black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: wheat 1px 3px;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
